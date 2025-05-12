@@ -33,9 +33,10 @@ Here are some ideas to get you started:
 
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>Hey there! I'm Lance 🚀 I'm a big fan of hardware, especially when it comes to building and tinkering with PCs.
-    A lot of what I do currently revolves around machine vision, verilog/FPGA programming, and various hackathon projects. 
-      However, I'm looking into networking and server space projects to work on towards the future </p>
+    <p>I’m a Computer Engineering student at the University of Toronto with a passion for embedded systems, electronics design, and automation. </p>
+    <p>My work blends software and hardware, from writing low-level firmware and designing PCBs to developing full-stack control systems and AI powered automation tools. 
+        I enjoy solving complex engineering problems and exploring how things work at both the micro and system levels.
+        Outside of academics and work, I’m always learning, building, and experimenting with new technologies.</p>
 </div>
 
 <div align="center">
